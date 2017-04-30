@@ -8013,6 +8013,7 @@ a:hover {
 @media only screen and (min-width: 768px) {
   .content {
     padding-bottom: 110px;
+    min-height: 803px;
   }
 }
 
